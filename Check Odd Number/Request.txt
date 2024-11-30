@@ -1,0 +1,16 @@
+Nhập một số n > 0 và một số k <= n sau đó hiển thị các số lẻ trong đoạn [k, n].
+− Input gồm nhiều dòng:
+Dòng đầu là số bộ test 0 < t <= 100.
+T dòng tiếp theo mỗi dòng là hai số nguyên n, k theo thứ tự, phân tách nhau
+bằng một vài khoảng trắng.
+
+− Output: mỗi bộ test in ra kết quả với định dạng
+Dòng đầu là Test i:
+Dòng tiếp theo liệt kê các giá trị thỏa mãn, các giá trị cách nhau bởi một dấu
+cách. Nếu n <= 0 hoặc k > n, in ra NO RESULT.
+
+Input        Output
+3
+1 5          No Result
+10 6         7 9
+-2 -10       No Result
