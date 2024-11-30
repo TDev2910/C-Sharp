@@ -1,0 +1,14 @@
+Nhập một số nguyên n sau đó hiển thị các số chẵn trong đoạn [0, n].
+− Input gồm nhiều dòng:
+o Dòng đầu là số bộ test 0 < t <= 100.
+o T dòng tiếp theo mỗi dòng là một số nguyên n.
+− Output: mỗi bộ test in ra kết quả với định dạng
+o Dòng đầu là Test i:
+o Dòng tiếp theo liệt kê các giá trị thỏa mãn. Nếu n < 0, in ra NO RESULT.
+
+INPUT          OUTPUT
+3              
+	       Test 1 : 0
+1              Test 2 : 0 2 4 6 8
+8              Test 3 : No Result
+-6
