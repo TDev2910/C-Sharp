@@ -1,0 +1,14 @@
+D:\C#\two-dimensional-array\Dev\Dev\bin\Debug\net8.0\Dev.exe
+D:\C#\two-dimensional-array\Dev\Dev\bin\Debug\net8.0\Dev.deps.json
+D:\C#\two-dimensional-array\Dev\Dev\bin\Debug\net8.0\Dev.runtimeconfig.json
+D:\C#\two-dimensional-array\Dev\Dev\bin\Debug\net8.0\Dev.dll
+D:\C#\two-dimensional-array\Dev\Dev\bin\Debug\net8.0\Dev.pdb
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.AssemblyInfoInputs.cache
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.AssemblyInfo.cs
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.csproj.CoreCompileInputs.cache
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.dll
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\refint\Dev.dll
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.pdb
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\Dev.genruntimeconfig.cache
+D:\C#\two-dimensional-array\Dev\Dev\obj\Debug\net8.0\ref\Dev.dll
