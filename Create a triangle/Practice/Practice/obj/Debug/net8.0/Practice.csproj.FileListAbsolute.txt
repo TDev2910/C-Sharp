@@ -1,0 +1,14 @@
+D:\C#\Create a triangle\Practice\Practice\bin\Debug\net8.0\Practice.exe
+D:\C#\Create a triangle\Practice\Practice\bin\Debug\net8.0\Practice.deps.json
+D:\C#\Create a triangle\Practice\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+D:\C#\Create a triangle\Practice\Practice\bin\Debug\net8.0\Practice.dll
+D:\C#\Create a triangle\Practice\Practice\bin\Debug\net8.0\Practice.pdb
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.dll
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\refint\Practice.dll
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.pdb
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+D:\C#\Create a triangle\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
