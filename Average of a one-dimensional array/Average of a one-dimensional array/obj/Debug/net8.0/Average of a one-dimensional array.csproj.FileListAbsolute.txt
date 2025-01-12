@@ -1,0 +1,14 @@
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\bin\Debug\net8.0\Average of a one-dimensional array.exe
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\bin\Debug\net8.0\Average of a one-dimensional array.deps.json
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\bin\Debug\net8.0\Average of a one-dimensional array.runtimeconfig.json
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\bin\Debug\net8.0\Average of a one-dimensional array.dll
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\bin\Debug\net8.0\Average of a one-dimensional array.pdb
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.AssemblyInfoInputs.cache
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.AssemblyInfo.cs
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.csproj.CoreCompileInputs.cache
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.dll
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\refint\Average of a one-dimensional array.dll
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.pdb
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\Average of a one-dimensional array.genruntimeconfig.cache
+D:\C#\Average of a one-dimensional array\Average of a one-dimensional array\obj\Debug\net8.0\ref\Average of a one-dimensional array.dll
